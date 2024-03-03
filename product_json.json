@@ -1,2 +1,379 @@
-{"type":"text","data":"Card Title","style":{"fontSize":24,"fontWeight":"w800","color":"#ff253779"}}
+{
+    "body": {
+        "type": "scrollView",
+        "child": {
+            "type": "container",
+            "child": {
+                "type": "column",                
+                "children": [
+                    {
+                        "type": "sizedBox",
+                        "height": 24
+                    },
+                    {
+                        "type": "card",                       
+                        "child": {
+                        "type": "row",
+                        "mainAxisAlignment": "center",
+                        "children": [
+                            {
+                                "type": "expanded",
+                                "child": {
+                                    "type": "container",
+                                    "padding": {
+                                        "top": 12,
+                                        "left": 24,
+                                        "right": 12,
+                                        "bottom": 12
+                                    },                                
+                                    "child": {
+                                        "type": "text",
+                                        "data": "HP Laptop",
+                                        "style": {
+                                            "fontSize": 16
+                                        }
+                                    }
+                                }
 
+                            },
+                            {
+                                "type": "sizedBox",
+                                "width": 10
+                            },                            
+                            {
+                                "type": "expanded",
+                                
+                                "child": {
+                                    "type": "container",
+                                    "padding": {
+                                        "top": 12,
+                                        "left": 24,
+                                        "right": 12,
+                                        "bottom": 12
+                                    },
+                                    "child": {
+                                        "type": "text",
+                                        "data": "Rs. 40000",
+                                        "style": {
+                                            "fontSize": 18
+                                        }
+                                    }
+                                }
+                            }                           
+                        ]
+                     }
+                  },
+                    {
+                        "type": "sizedBox",
+                        "height": 24
+                    },
+                    {
+                        "type": "card",                       
+                        "child": {
+                        "type": "row",
+                        "mainAxisAlignment": "center",
+                        "children": [
+                            {
+                                "type": "expanded",
+                                "child": {
+                                    "type": "container",
+                                    "padding": {
+                                        "top": 12,
+                                        "left": 24,
+                                        "right": 12,
+                                        "bottom": 12
+                                    },                                
+                                    "child": {
+                                        "type": "text",
+                                        "data": "Gaming Desktop PC",
+                                        "style": {
+                                            "fontSize": 16
+                                        }
+                                    }
+                                }
+
+                            },
+                            {
+                                "type": "sizedBox",
+                                "width": 10
+                            },                            
+                            {
+                                "type": "expanded",
+                                
+                                "child": {
+                                    "type": "container",
+                                    "padding": {
+                                        "top": 12,
+                                        "left": 24,
+                                        "right": 12,
+                                        "bottom": 12
+                                    },
+                                    "child": {
+                                        "type": "text",
+                                        "data": "Rs. 93000",
+                                        "style": {
+                                            "fontSize": 18
+                                        }
+                                    }
+                                }
+                            }                           
+                        ]
+                     }
+                  },
+                    {
+                        "type": "sizedBox",
+                        "height": 24
+                    },
+                    {
+                        "type": "card",                       
+                        "child": {
+                        "type": "row",
+                        "mainAxisAlignment": "center",
+                        "children": [
+                            {
+                                "type": "expanded",
+                                "child": {
+                                    "type": "container",
+                                    "padding": {
+                                        "top": 12,
+                                        "left": 24,
+                                        "right": 12,
+                                        "bottom": 12
+                                    },                                
+                                    "child": {
+                                        "type": "text",
+                                        "data": "Dell Laptop",
+                                        "style": {
+                                            "fontSize": 16
+                                        }
+                                    }
+                                }
+
+                            },
+                            {
+                                "type": "sizedBox",
+                                "width": 10
+                            },                            
+                            {
+                                "type": "expanded",
+                                
+                                "child": {
+                                    "type": "container",
+                                    "padding": {
+                                        "top": 12,
+                                        "left": 24,
+                                        "right": 12,
+                                        "bottom": 12
+                                    },
+                                    "child": {
+                                        "type": "text",
+                                        "data": "Rs. 47000",
+                                        "style": {
+                                            "fontSize": 18
+                                        }
+                                    }
+                                }
+                            }                           
+                        ]
+                     }
+                  },
+                    {
+                        "type": "sizedBox",
+                        "height": 24
+                    },
+                    {
+                        "type": "card",                       
+                        "child": {
+                        "type": "row",
+                        "mainAxisAlignment": "center",
+                        "children": [
+                            {
+                                "type": "expanded",
+                                "child": {
+                                    "type": "container",
+                                    "padding": {
+                                        "top": 12,
+                                        "left": 24,
+                                        "right": 12,
+                                        "bottom": 12
+                                    },                                
+                                    "child": {
+                                        "type": "text",
+                                        "data": "CCTV Camera with DVR",
+                                        "style": {
+                                            "fontSize": 16
+                                        }
+                                    }
+                                }
+
+                            },
+                            {
+                                "type": "sizedBox",
+                                "width": 10
+                            },                            
+                            {
+                                "type": "expanded",
+                                
+                                "child": {
+                                    "type": "container",
+                                    "padding": {
+                                        "top": 12,
+                                        "left": 24,
+                                        "right": 12,
+                                        "bottom": 12
+                                    },
+                                    "child": {
+                                        "type": "text",
+                                        "data": "Rs. 40000",
+                                        "style": {
+                                            "fontSize": 18
+                                        }
+                                    }
+                                }
+                            }                           
+                        ]
+                     }
+                  },
+                    {
+                        "type": "sizedBox",
+                        "height": 24
+                    },
+                    {
+                        "type": "card",                       
+                        "child": {
+                        "type": "row",
+                        "mainAxisAlignment": "center",
+                        "children": [
+                            {
+                                "type": "expanded",
+                                "child": {
+                                    "type": "container",
+                                    "padding": {
+                                        "top": 12,
+                                        "left": 24,
+                                        "right": 12,
+                                        "bottom": 12
+                                    },                                
+                                    "child": {
+                                        "type": "text",
+                                        "data": "Asus Laptop",
+                                        "style": {
+                                            "fontSize": 16
+                                        }
+                                    }
+                                }
+
+                            },
+                            {
+                                "type": "sizedBox",
+                                "width": 10
+                            },                            
+                            {
+                                "type": "expanded",
+                                
+                                "child": {
+                                    "type": "container",
+                                    "padding": {
+                                        "top": 12,
+                                        "left": 24,
+                                        "right": 12,
+                                        "bottom": 12
+                                    },
+                                    "child": {
+                                        "type": "text",
+                                        "data": "Rs. 39000",
+                                        "style": {
+                                            "fontSize": 18
+                                        }
+                                    }
+                                }
+                            }                           
+                        ]
+                     }
+                  },
+
+                    {
+                        "type": "sizedBox",
+                        "height": 24
+                    },
+                    {
+                        "type": "card",                       
+                        "child": {
+                        "type": "row",
+                        "mainAxisAlignment": "center",
+                        "children": [
+                            {
+                                "type": "expanded",
+                                "child": {
+                                    "type": "container",
+                                    "padding": {
+                                        "top": 12,
+                                        "left": 24,
+                                        "right": 12,
+                                        "bottom": 12
+                                    },                                
+                                    "child": {
+                                        "type": "text",
+                                        "data": "Desktop PC",
+                                        "style": {
+                                            "fontSize": 16
+                                        }
+                                    }
+                                }
+
+                            },
+                            {
+                                "type": "sizedBox",
+                                "width": 10
+                            },                            
+                            {
+                                "type": "expanded",
+                                
+                                "child": {
+                                    "type": "container",
+                                    "padding": {
+                                        "top": 12,
+                                        "left": 24,
+                                        "right": 12,
+                                        "bottom": 12
+                                    },
+                                    "child": {
+                                        "type": "text",
+                                        "data": "Rs. 37000",
+                                        "style": {
+                                            "fontSize": 18
+                                        }
+                                    }
+                                }
+                            }                           
+                        ]
+                     }
+                  }                                                                                          
+                  
+                ],
+                "mainAxisAlignment": "center",
+                "crossAxisAlignment": "center"
+            },
+            "padding": {
+                "top": 12,
+                "left": 12,
+                "right": 12,
+                "bottom": 12
+            }
+        }
+    },
+    "type": "scaffold",
+    "appBar": {
+        "type": "appBar",
+        "title": {
+            "data": "Ongoing Products: Listed with Price",
+            "type": "text",
+            "style": {
+                "color": "#ffffff",
+                "fontSize": 21
+            }
+        },
+        "backgroundColor": "#4D00E9"
+    },
+    "backgroundColor": "#ffffff"
+}
